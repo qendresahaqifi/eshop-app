@@ -68,7 +68,7 @@ main.jsx        # Entry point
 -- Getting Started --
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/eshop-app.git
+    git clone https://github.com/qendresahaqifi/eshop-app.git
     cd eshop-app
 2. Install dependencies:
     npm install
