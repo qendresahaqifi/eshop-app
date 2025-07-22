@@ -79,5 +79,5 @@ main.jsx        # Entry point
 
 -- Links --
 
-=> GitHub repository: https://github.com/yourusername/eshop-app
-=> Live Demo: https://yourusername.eshop-app.vercel.app
+=> GitHub repository: https://github.com/qendresahaqifi/eshop-app
+=> Live Demo: https://vercel.com/qendresa-haqifis-projects/eshop-app
